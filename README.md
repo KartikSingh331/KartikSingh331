@@ -13,5 +13,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=KartikSingh331&theme=radical&no-frame=true&no-bg=true&margin-w=4).
 
 [![](https://visitcount.itsvg.in/api?id=KartikSingh331&icon=0&color=0)](https://visitcount.itsvg.in)
+📊 GitHub Stats:
+      
+
+📊 Daily Stats:
+Snake animation
+✍️ Random Dev Quote
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
