@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 Socials;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartikrajput_1718) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kartik-singh1718) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartiksinh551@gmail.com) .
 
 # 💻 Tech Stack:
